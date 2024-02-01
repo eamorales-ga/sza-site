@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://www.revolt.tv/wp-content/uploads/2022/06/sza-e1654785934541-1586x891.jpeg?theia_smart_thumbnails_file_version=2);
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    color: aliceblue;
+}
+p{
+    color:#FFF0F5;
+}
+div.transbox p{
+    background-color: #FF69B4;
+    opacity: 0.9;
+    border: 1px solid black;
+}
+h1{
+    color: #FF69B4;
+
+}
