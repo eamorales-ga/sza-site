@@ -4,15 +4,33 @@ body{
     background-size: cover; /* Resize the background image to cover the entire container */
     color: aliceblue;
 }
+
 p{
     color:#FFF0F5;
 }
+
 div.transbox p{
     background-color: #FF69B4;
     opacity: 0.9;
     border: 1px solid black;
 }
+
 h1{
     color: #FF69B4;
 
+}
+table, th, td{
+    border: 1px solid #FF69B4
+    
+}
+.bgcolor{
+    background-color: #FFF0F5;
+}
+.textcolor{
+    color: #FF69B4;
+    font-weight: bold;
+}
+.txtcolor{
+    color: #FF69B4;
+    text-align: center;
 }
